@@ -40,4 +40,4 @@ The projects demonstrate the complete end-to-end Data Science pipeline: from dat
 ## 🚀 How to Run the Projects
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone (https://github.com/adel-mahmoud-elazawy/ML-Regression-Projects.git)
